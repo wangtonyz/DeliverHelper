@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="gray">#808080</color>
+    <color name="color_deep_default">#4a4a4a</color>   <!--主体文字色：#4A4A4A（74，74，74）；-->
+    <color name="color_gray_default">#9b9b9b</color>
+</resources>
